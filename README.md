@@ -1,9 +1,8 @@
-# 01-WebPageCleanUp
-Marketing agency wants a codebase that follows accessibility standards, so their site is optimized for search engines.
+# Code Refactor for Horiseon Homepage
 
 ## Description
 
-The task here was to clean up existing code for a webpage. This web page needed to follow good web accessibility so this page can be viewed by all users, and so this webpage is better positioned in search engines.
+The marketing agencey Horiseon needed a code refactor for their homepage. The main objective is to update the codebase that follows accessibility standards. Additionally the stylesheet for the webpage needed to be cleaned up.
 
 ## Updates
 
@@ -16,6 +15,14 @@ The updates done to the index.html and style.css documents are listed below
 * Confirmed heading attributes are in sequential order
 * Updated the title to a more descriptive title
 * Organized and Commented on style.css
+
+## Initial Mock-up
+The following image is the mock-up provided for the code refactor:
+![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+
+## Final Product
+The following image is the final version after code refactoring:
+![code refactor demo](./Assets/HoriseonHomePage.png)
 
 ## License
 MIT License
@@ -39,7 +46,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Badges
-
-https://img.shields.io/github/languages/count/veryfaye/01-WebPageCleanUp
