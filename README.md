@@ -18,11 +18,11 @@ The updates done to the index.html and style.css documents are listed below
 
 ## Initial Mock-up
 The following image is the mock-up provided for the code refactor:
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./assets/01-html-css-git-homework-demo.png)
 
 ## Final Product
 The following image is the final version after code refactoring:
-![code refactor demo](./Assets/HoriseonHomePage.png)
+![code refactor demo](./assets/HoriseonHomePage.png)
 
 ## License
 MIT License
